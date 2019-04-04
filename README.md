@@ -15,8 +15,8 @@
 <details><summary>Stairway</summary><p>
  <ul>
   <li>
-   * Définition de la fonction die_throw</li>
-  <li> * Définition de stairs & count_number_die_throw</li>
+   Définition de la fonction die_throw</li>
+  <li> Définition de stairs & count_number_die_throw</li>
   <li> Tant que stairs < 10 : on jète le dé on applique la consigne selon le résultat (if statement)</li>
   <li>Définition de average_time_finish : on stock le nombre de lancé par partie dans un tableau (avg[])</li>
   <li>On lance le jeu 120 fois</li>

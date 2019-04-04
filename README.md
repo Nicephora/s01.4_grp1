@@ -13,8 +13,10 @@
   * Tant que le nombre d'étages est inf. à la moitié du nombre demandé par l'utilisateur : ajouter un étage contenant 1 espace (" ") de moins (.chop) et 2 briques (#) de plus. Une fois que le nombre d'étages excède la moitié du nombre demandé par l'utilisateur, ajouter 1 espace, retirer 2 bricks (.chop.chop)</p></details>
 <details><summary>Password</summary><p>ez shit</p></details>
 <details><summary>Stairway</summary><p>
-  * Définition de la fonction die_throw
-  * Définition de stairs & count_number_die_throw
+ <ul>
+  <li>
+   * Définition de la fonction die_throw</li>
+  <li> * Définition de stairs & count_number_die_throw</li>
   * Tant que stairs < 10 : on jète le dé on applique la consigne selon le résultat (if statement)
   * Définition de average_time_finish : on stock le nombre de lancé par partie dans un tableau (avg[])
   * On lance le jeu 120 fois

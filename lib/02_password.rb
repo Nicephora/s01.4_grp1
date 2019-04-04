@@ -10,7 +10,8 @@ end
 def login(user_password)
     user_password_to_verify = ""
     while (user_password_to_verify != user_password)
-        puts "mdp ?"
+        puts "Vérifie ton mdp"
+        print ">"
         user_password_to_verify = gets.chomp.to_s
     end
     welcome_screen

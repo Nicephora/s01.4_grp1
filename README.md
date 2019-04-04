@@ -6,5 +6,5 @@
 - Clément Coquille
 
 # Fonctionnement :
-- <details><summary>test</summury><p>azeaze</p></details>
+<details><summary>test</summury><p>azeaze</p></details>
 
